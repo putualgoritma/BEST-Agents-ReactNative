@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "121913330036",
+    "project_id": "bestagent-9002f",
+    "storage_bucket": "bestagent-9002f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121913330036:android:3c2cfa17d3a558d5764421",
+        "android_client_info": {
+          "package_name": "com.best.agent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121913330036-p072901hr1ogstc444vj6ociqglu1e9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.best.agent",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "121913330036-136nc3qnpgq9djn7ni9io7ntad8hpjmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHbttK8z2cWLg62QtOMEN5pIHYY29JHQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121913330036-136nc3qnpgq9djn7ni9io7ntad8hpjmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
